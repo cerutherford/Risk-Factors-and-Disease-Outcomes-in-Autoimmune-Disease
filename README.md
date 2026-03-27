@@ -1,2 +1,3 @@
-# Risk-Factors-and-Disease-Outcomes-in-Autoimmune-Disease
-This repository contains the code for my senior thesis, in which I used the All of Us dataset to perform a comparative analysis of risk factors of interstitial lung disease across six systemic autoimmune rheumatic diseases.
+# SARD-ILD Codebase
+This codebase corresponds to my senior thesis, in which I performed a comparative analysis of risk factors of interstitial lung disease across six autoimmune rheumatic diseases. All analyses were performed in the All of Us Researcher Workbench using the All of Us Curated Data Repository (CDR) Version 8.
+The current codebase only consists of a rather disorganized Jupyter notebook containing my code and several debugging cells, as well as two Python scripts that I used to generate my figures. Please check back on 1 May 2026 for a fully organized and documented codebase.
